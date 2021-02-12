@@ -105,7 +105,7 @@ nav a {
     font-size: 70px;
     font-family: poppins;
     text-transform: uppercase;
-    text-shadow: 1px 1px white;
+    text-shadow: 1px 1px skyblue;
     color: rgb(235, 8, 167);
 }
 
@@ -123,7 +123,7 @@ nav a {
 .content-area h2 {
     font-family: bignoodletitling;
     color: rgb(235, 8, 167);
-    text-shadow: 2px 2px #fff;
+    text-shadow: 2px 2px skyblue;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
@@ -133,8 +133,8 @@ nav a {
 .content-area p {
     padding: 10% 10%;
     font-family: merienda;
-    color: #fff;
-    text-shadow: 2px 2px rgb(235, 8, 167);
+    color: black;
+    text-shadow: 2px 2px skyblue;
     opacity: 0.9;
     font-size: 35px;
     line-height: 55px;
