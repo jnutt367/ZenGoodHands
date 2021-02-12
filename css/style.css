@@ -105,8 +105,11 @@ nav a {
     font-size: 70px;
     font-family: poppins;
     text-transform: uppercase;
-    text-shadow: 1px 1px skyblue;
     color: rgb(235, 8, 167);
+}
+
+textarea {
+    width: 100%;
 }
 
 .content-area {
@@ -133,8 +136,7 @@ nav a {
 .content-area p {
     padding: 10% 10%;
     font-family: merienda;
-    color: black;
-    text-shadow: 2px 2px skyblue;
+    color: rgb(235, 8, 167);
     opacity: 0.9;
     font-size: 35px;
     line-height: 55px;
