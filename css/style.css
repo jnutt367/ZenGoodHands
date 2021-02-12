@@ -74,7 +74,7 @@ nav a {
     font-size: 50px;
     text-shadow: 2px 2px black;
     background-color: silver;
-    color: rgb(235, 8, 167);
+    color: #fff;
     border: 1px solid black;
     border-radius: 6px;
     height: 150px;
@@ -94,7 +94,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../assets/cupping.jpg);
+    background-image: url(../assets/neck-massage.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -128,7 +128,7 @@ textarea {
 
 .content-area h2 {
     font-family: bignoodletitling;
-    color: rgb(235, 8, 167);
+    color: black;
     text-shadow: 2px 2px skyblue;
     letter-spacing: 4px;
     padding-top: 30px;
