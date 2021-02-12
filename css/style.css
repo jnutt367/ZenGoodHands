@@ -23,8 +23,8 @@ header {
 
 h1 {
     font-family: bignoodletitling;
-    color: skyblue;
-    text-shadow: 3px 3px black;
+    color: rgb(235, 8, 167);
+    text-shadow: 2px 2px white;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
@@ -36,7 +36,7 @@ h3 {
     padding-left: 100px;
     margin-left: 100px;
     margin-top: 15px;
-    text-shadow: 1px 2px grey;
+    text-shadow: 1px 2px rgb(235, 8, 167);
 }
 
 .logo {
@@ -67,14 +67,14 @@ nav a {
     margin: 0 5px;
     padding-right: 10px;
     color: black;
-    text-shadow: 3px 3px grey;
+    text-shadow: 2px 2px grey;
 }
 
 .button {
     font-size: 50px;
     text-shadow: 2px 2px black;
     background-color: silver;
-    color: skyblue;
+    color: rgb(235, 8, 167);
     border: 1px solid black;
     border-radius: 6px;
     height: 150px;
@@ -105,8 +105,8 @@ nav a {
     font-size: 70px;
     font-family: poppins;
     text-transform: uppercase;
-    text-shadow: 2px 2px black;
-    color: skyblue;
+    text-shadow: 1px 1px white;
+    color: rgb(235, 8, 167);
 }
 
 .content-area {
@@ -122,8 +122,8 @@ nav a {
 
 .content-area h2 {
     font-family: bignoodletitling;
-    color: skyblue;
-    text-shadow: 3px 3px black;
+    color: rgb(235, 8, 167);
+    text-shadow: 2px 2px #fff;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
@@ -133,8 +133,8 @@ nav a {
 .content-area p {
     padding: 10% 10%;
     font-family: merienda;
-    color: black;
-    text-shadow: 2px 2px skyblue;
+    color: #fff;
+    text-shadow: 2px 2px rgb(235, 8, 167);
     opacity: 0.9;
     font-size: 35px;
     line-height: 55px;
