@@ -23,7 +23,7 @@ header {
 
 h1 {
     font-family: bignoodletitling;
-    color: rgb(235, 8, 167);
+    color: black;
     text-shadow: 2px 2px white;
     letter-spacing: 4px;
     padding-top: 30px;
@@ -36,7 +36,7 @@ h3 {
     padding-left: 100px;
     margin-left: 100px;
     margin-top: 15px;
-    text-shadow: 1px 2px rgb(235, 8, 167);
+    text-shadow: 1px 1px grey;
 }
 
 .logo {
@@ -94,7 +94,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../assets/trigger-elbow-massage.jpg);
+    background-image: url(../assets/cupping.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -105,18 +105,21 @@ nav a {
     font-size: 70px;
     font-family: poppins;
     text-transform: uppercase;
-    color: rgb(235, 8, 167);
+    color: black;
+    text-shadow: 2px 2px white;
 }
 
 textarea {
     width: 100%;
+    height: 200px;
+    border: 1px solid skyblue;
 }
 
 .content-area {
     width: 100%;
     position: relative;
     top: 700px;
-    background-image: url(https://static.wixstatic.com/media/7c4fe3_aba10d6ebfc346febd9d071298c20696~mv2.jpg);
+    background-image: url(../assets/earth-summer-garden-table.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -136,7 +139,7 @@ textarea {
 .content-area p {
     padding: 10% 10%;
     font-family: merienda;
-    color: rgb(235, 8, 167);
+    color: white;
     opacity: 0.9;
     font-size: 35px;
     line-height: 55px;
